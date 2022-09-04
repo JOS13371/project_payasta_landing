@@ -1,1 +1,1 @@
-# project_payasta_landing
+# PayYasta Landing
